@@ -6,7 +6,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
-<code>📦 Tech stack: node.js nestJs expressJs PostgreSql MongoDB MySql</code>
+<code>📦 Tech stack: node.js nestJs expressJs PostgreSql MongoDB MySql Docker</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [makovii](https://t.me/MakoVik)</code>
 <code>📫 [email](mailto:viktorkaktysikov@gmail.com)</code>

@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, Python</code>
 <code>📦 Tech stack: node.js nestJs expressJs PostgreSql MongoDB MySql</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://t.me/MakoVik)</code>
-<code>📫 [your-email](mailto:viktorkaktysikov@gmail.com)</code>
+<code>💬 telegram: [makovii](https://t.me/MakoVik)</code>
+<code>📫 [email](mailto:viktorkaktysikov@gmail.com)</code>

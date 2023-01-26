@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js nestJs expressJs PostgreSql MongoDB MySql Docker</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [makovii]()</code>
-<code>📫 [email](mailto:viktorkaktysikov@gmail.com)</code>
+<code>📫 [email](mailto:mail@gmail.com)</code>
